@@ -17,7 +17,7 @@ const Services = ({ sectionDetails = true }) => {
           <div className="mb-12">
             <p className="section-tagline max-lg:text-center">Our Services</p>
             <div className="block max-lg:text-center lg:flex">
-              <h2 className=" max-lg:mb-5">Assisting partners to win new business and boost revenue.</h2>
+              <h2 className=" max-lg:mb-5"> Assisting partners to win new business and boost revenue.</h2>
               <p className="max-w-[520px] lg:ml-auto">
                 Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. It&rsquo;s not
                 Latin, though it looks like it
